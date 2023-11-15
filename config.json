@@ -6,7 +6,7 @@
     },
     "openai_key": "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",
 
-    "openai_api_base": "https://chatgpt-proxy.doge-math-pages.byethost33.com/proxy",
+    "openai_api_base": "https://chatgpt-proxy.doge-math-pages.byethost33.com",
     "proxy": {
         "enable": true,
         "http": "127.0.0.1:7890",
